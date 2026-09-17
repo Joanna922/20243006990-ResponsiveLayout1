@@ -1,0 +1,17 @@
+﻿# Android
+*.iml
+.gradle
+.idea
+build
+app/build
+captures
+local.properties
+
+# SDK 文件夹，重点！
+sdk/
+avd/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
